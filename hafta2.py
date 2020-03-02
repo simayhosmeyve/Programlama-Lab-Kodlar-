@@ -1,6 +1,6 @@
 
 #Insertion Sort
-#Listede bir kısım sıralı kısım olarak ayrılıyor ve ekleme yaparak sıralı kısımda karşılaştırma yapıyor.
+#Listede bir kısım sıralı kısım olarak ayrılıyor ve ekleme yaparak sıralı kısımda karşılaştırma yapıyor
 def insertionSort(liste):
     n = len(liste)
     for i in range(1,n):
