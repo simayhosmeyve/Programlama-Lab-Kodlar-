@@ -56,9 +56,8 @@ my_d = {1:'Bir',2:2,'3':'Three'}
 
 for key in my_d.keys():
     print(key,my_d[key])
-if -10 not in my_d:   # -10 adlı bir key yoksa 
-    my_d[-10] = 50    # -10 aldı key'e 50yi ata
-
+if -10 not in my_d:  
+    my_d[-10] = 50    
 def my_h(list_2):
     my_d = {}
     if i not in my_d:
