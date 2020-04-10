@@ -32,4 +32,3 @@ for value in range(-10,10):
 
 plt.plot(x_values,y_values) # grafikte x değerleri için hangi y değerlerine karşılık geldiğini atıyoruz
 plt.show()  # grafiği console da gösteriyoruz
-# syp.plot(gauss_function.subs({mu:1,sigma:3}),(x,-10,10),title='Gauss')
