@@ -1,4 +1,4 @@
-from sympy import sym
+import sympy as sym
 from sympy import Symbol
 from sympy import pprint
 import matplotlib.pyplot as plt
